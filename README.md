@@ -1,5 +1,8 @@
 # RedpanSoftware.com's - Red Snap! Twitch Clip Command Software
 
+![img](application.gif)
+
+
 If you've always wanted a clip command that allows you to use hotkeys regardless of what window is open, then this is the software for you!
 
 # Features
