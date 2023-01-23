@@ -1,11 +1,11 @@
 # RedpanSoftware.com's - Red Snap! Twitch Clip Command Software
 
-If you've always wanted a clip command that let you use hotkeys regardless of what window is open. This is the software for you. 
+If you've always wanted a clip command that allows you to use hotkeys regardless of what window is open, then this is the software for you!
 
 # Features
 
-- !clip - chat command
-- lctrl+c default hotkey for making clips (there's a sound on a successful clip)
+- !clip - editble chat command
+- lctrl+c default hotkey for making clips (there's a sound that plays when you are connected to the api successfully - does not play for chat command)
 
 
 # Installation
