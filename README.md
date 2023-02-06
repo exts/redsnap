@@ -47,3 +47,8 @@ If you've always wanted a clip command that allows you to use hotkeys regardless
 4. Lastly you can minimize the app to your system tray and call it a day. :) 
 
 Enjoy ! Report bugs by creating a new issue in the issue tracker and I'll figure out how to handle that.
+
+# Ways to support
+- Tell people to test it, find bugs and report them
+- Follow me on socials, I'll edit the readme with my link later
+- If you feel strongly buy me coffee, I love starbucks white chocolate fraps :p https://ko-fi.com/justlamonte
