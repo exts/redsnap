@@ -17,7 +17,7 @@ If you've always wanted a clip command that allows you to use hotkeys regardless
 2. Click on **Applications**
 3. Click **Register Your Application**
 4. In the **Name** field, name it w/e you want, **RedSnap - Username** works
-5. **OAuth** needs to be http://localhost:**PORT** from the config.yml file, default is **4040**
+5. **OAuth** needs to be http://localhost:PORT (ex.: `http://localhost:4040`) from the config.yml file, default is **4040**
 6. Hit **Add** 
 7. Under **Category** select **Chatbot**
 8. You aren't a robot lol..
